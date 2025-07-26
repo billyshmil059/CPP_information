@@ -1,0 +1,21 @@
+Репозиторий представляет собой что-то по типу справочника по плюсам.
+
+Разбивка на темы:
+1. [Этапы компиляции и стек вызовов](markdown_files/first.md)
+2. [Указатели и ссылки](markdown_files/pointandliks.md)
+3. [Управление динамической памятью](markdown_files/newdelete.md)
+4. [Введение в структуры и классы](markdown_files/structures.md)
+5. [Наследование](markdown_files/nasled.md)
+6. [Полиморфизм](markdown_files/polymorf.md)
+7. [Перегрузка операторов](markdown_files/operators.md)
+8. [Ключевое слово friend](markdown_files/friend.md)
+9. [static, inline, extern](markdown_files/staticinline.md)
+10. [Шаблоны](markdown_files/templates.md)
+11. [Идиома RAII и умные указатели](markdown_files/RAII.md)
+12. [Продвинутые возможности С++ до версии С++11](markdown_files/Prodvado1114.md)
+13. [Некоторые полезные новвоведения в С++11/C++14](markdown_files/momentsafter1114.md)
+14. [Семантика перемещения, std::move](markdown_files/stdmove.md)
+15. [Standart Template Library](markdown_files/STL.md)
+16. [Обработка ошибок](markdown_files/exceptions.md)
+17. [Многопоточность](markdown_files/threads.md)
+18. [Метапрограммирование](markdown_files/metaprogramming.md)
