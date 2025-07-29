@@ -2,7 +2,7 @@
 
 Разбивка на темы:
 1. [Этапы компиляции и стек вызовов](markdown_files/first.md)
-2. [Указатели и ссылки](markdown_files/pointandliks.md)
+2. [Указатели, ссылки и const](markdown_files/pointandliks.md)
 3. [Управление динамической памятью](markdown_files/newdelete.md)
 4. [Введение в структуры и классы](markdown_files/structures.md)
 5. [Наследование](markdown_files/nasled.md)
